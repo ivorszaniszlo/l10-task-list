@@ -87,14 +87,6 @@ Access the application at `http://localhost:8000`.
 
 Documentation is available in the `docs` directory.
 
-## Developer
-
-Piotr Jura
-
-## Status
-
-Active
-
 ## Created
 
 2024
